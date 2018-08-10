@@ -82,7 +82,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'basic'
+html_theme = 'bizstyle'
 #html_theme = 'pyramid'
 
 # Theme options are theme-specific and customize the look and feel of a theme
