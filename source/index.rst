@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-BURAI
-=====
+BURAI‚ÌƒhƒLƒ…ƒƒ“ƒg
+===================
 
 | BURAI is a GUI system of `Quantum ESPRESSO <http://www.quantum-espresso.org>`_.
   You can `download <https://github.com/BURAI-team/burai/releases/tag/ver.1.3.1>`_ and use it freely.
