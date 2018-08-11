@@ -14,7 +14,7 @@ EXabyte.ioとは
     :numbered:
     :glob:
 
-    01
+    model
 
 
 Sphinx について
