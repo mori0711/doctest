@@ -4,33 +4,49 @@ Material Projects から結晶データ取得
 
 ここではMaterial Projectsから結晶データを取得する操作を説明します。
 
-- Main menu
+.. raw:: html
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Pu6x1CI4eKA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-  Main menu, which is symbolized by ">" icon, has eight items.
+| 
+
+まず初めに、Materialsの項目を選択します。
+
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/select_materials.png                                   |
+  |    :scale: 50 %                                                          |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+
+|
+
+次に、Importの項目を選択します。
 
   +--------------------------------------------------------------------------+
   | .. image:: ./imgs/materials_window.png                                   |
-  |    :scale: 40 %                                                          |
+  |    :scale: 50 %                                                          |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
-  | |                                                                        |
-  | | Items of main menu                                                     |
-  +===============+==========================================================+
-  | About BURAI   | BURAI information, where version and license are shown.  |
-  +---------------+----------------------------------------------------------+
-  | Documents     | This documantation is shown.                             |
-  +---------------+----------------------------------------------------------+
-  | Links (Web)   | Some links (QE web page, psudopotential page ...)        |
-  +---------------+----------------------------------------------------------+
-  | Path of QE    | Set and Show QE and MPI paths.                           |
-  +---------------+----------------------------------------------------------+
-  | Proxy server  | Set proxy system.                                        |
-  +---------------+----------------------------------------------------------+
-  | Full screen   | BURAI windows size are changed full screen.              |
-  +---------------+----------------------------------------------------------+
-  | Quit [Ctr+Q]  | Quit the system of BURAI.                                |
-  +---------------+----------------------------------------------------------+
 
-.. raw:: html
-   
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Pu6x1CI4eKA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+|
+
+Import Materilsの画面が現れたら、元素記号や構造式を入力すると、自動的にMaterials Projectsの
+データベースにつなぎ検索されます。
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/materials_window.png                                   |
+  |    :scale: 50 %                                                          |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+  
+|
+
+例では、「Al2O3」を検索した結果を示します。画像には検索したAl2O3の一部が表示されています。
+  +--------------------------------------------------------------------------+
+  | .. image:: ./imgs/search_AL2O3.png                               　　　    |
+  |    :scale: 50 %                                                          |
+  |    :align: center                                                        |
+  +--------------------------------------------------------------------------+
+  
+|
+
+
+
