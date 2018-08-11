@@ -5,7 +5,7 @@ Exabayte.io 使用マニュアル
 Exabyte.ioとは
 =============
 
-EXabyte.ioとは
+`EXabyte.io <https://exabyte.io/>`_
 
 内容
 ====
@@ -16,10 +16,4 @@ EXabyte.ioとは
 
     model
 
-
-Sphinx について
-================
-
-* `Sphinx 日本語ドキュメント <http://sphinx-users.jp/doc11/>`_
-* `ブロック図生成ツール blockdiag — blockdiag 1.0 documentation <http://blockdiag.com/ja/>`_
 
