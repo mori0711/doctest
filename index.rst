@@ -1,10 +1,11 @@
-==============
-sphinx handson
-==============
+=======================
+Exabayte.io 使用マニュアル
+=======================
 
+Exabyte.ioとは
+=============
 
-`最初に <../../../slide/_build/html/index.html>`_
-
+EXabyte.ioとは
 
 内容
 ====
@@ -14,13 +15,6 @@ sphinx handson
     :glob:
 
     01
-    02
-    03
-    04
-    05
-    06
-    07
-    08
 
 
 Sphinx について
