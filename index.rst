@@ -19,5 +19,7 @@ Exabyte.ioとは
     :glob:
 
     model
+    first_principles_qe
+    first_principles_vasp
 
 
