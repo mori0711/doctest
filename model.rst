@@ -2,18 +2,12 @@
 モデル作成
 ==========
 
-Install
-=======
-
-In the following it is shown how to install BURAI: 
-to download it and to set it.
-
-| Optionally, it may be possible to install Quantum ESPRESSO.
+ここではExabyte.ioを用いて結晶データ取得、計算モデル作成について説明します。
 
 -------------------------------------------------------------------------------------------------
 
 .. toctree::
    :maxdepth: 2
 
-   model/01
+   model/material_projects
 
