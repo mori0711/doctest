@@ -7,7 +7,7 @@ Material Projects から結晶データ取得
 .. raw:: html
    <iframe width="560" height="315" src="https://www.youtube.com/embed/Pu6x1CI4eKA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-| 
+-------------------------------------------------------------------------------------------------
 
 まず初めに、Materialsの項目を選択します。
 
