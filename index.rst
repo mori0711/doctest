@@ -7,8 +7,9 @@ Exabyte.ioとは
 
 `EXabyte.io <https://exabyte.io/>`_
 
-.. youtube:: IN9YE_HjQQk
-.. youtube:: ecOZrN8_a3Y
+.. raw:: html
+
+   <input type="checkbox" value="true">チェックしてね</input>
 
 内容
 ====
