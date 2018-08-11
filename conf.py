@@ -50,8 +50,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'study sphinx'
-copyright = u'Daisuke Igarashi'
+project = u'Exabyte.io manual'
+copyright = u'Kazuki Mori'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -188,8 +188,8 @@ htmlhelp_basename = 'help'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'testpdf.tex', u'testpdf Documentation',
-   u'test', 'manual'),
+  ('index', 'exabyte.tex', u'exabyte Documentation',
+   u'exabyte', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -222,7 +222,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'index', u'index',
-     [u'test'], 1)
+     [u'exabyte'], 1)
 ]
 
 

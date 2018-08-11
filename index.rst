@@ -16,7 +16,7 @@ Exabyte.ioとは
     :glob:
 
     model
-    workflow
+    workflows
     first_principles_qe
     first_principles_vasp
 
