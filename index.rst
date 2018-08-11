@@ -8,8 +8,8 @@ Exabyte.ioとは
 `EXabyte.io <https://exabyte.io/>`_
 
 .. raw:: html
-
-   <input type="checkbox" value="true">チェックしてね</input>
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/svOKQ3Y7qAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 内容
 ====
