@@ -8,7 +8,7 @@ Exabyte.ioとは
 `EXabyte.io <https://exabyte.io/>`_
 
 
-内容
+項目
 ====
 .. toctree::
     :maxdepth: 1
