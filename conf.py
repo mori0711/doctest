@@ -30,6 +30,7 @@ CUR_DIR = os.path.dirname(os.path.abspath(__file__))
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ['sphinx.ext.todo', 
+              'sphinxcontrib.youtube',
               'sphinxcontrib.blockdiag'
               ]
 todo_include_todos=True
