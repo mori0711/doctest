@@ -21,7 +21,7 @@ CUR_DIR = os.path.dirname(os.path.abspath(__file__))
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #sys.path.insert(0, os.path.abspath('.'))
-sys.path.insert(0, os.path.abspath('exts'))
+#sys.path.insert(0, os.path.abspath('exts'))
 
 # -- General configuration -----------------------------------------------------
 
@@ -34,6 +34,13 @@ extensions = ['sphinx.ext.todo',
               'sphinxcontrib.blockdiag'
               ]
 todo_include_todos=True
+
+# sphinxcontrib.youtube 用にライブラリパスを追加
+#sys.path += ["lib"]
+
+# sphinxcontrib.youtube モジュールを読み込む
+extensions += ['lib.sphinxcontrib.youtube']
+
 
 html_search_language = 'ja'
 html_search_language_option = {'type':'default'}
@@ -97,13 +104,6 @@ pygments_style = 'sphinx'
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
-
-# sphinxcontrib.youtube 用にライブラリパスを追加
-sys.path += ["lib"]
-
-# sphinxcontrib.youtube モジュールを読み込む
-extensions += ['sphinxcontrib.youtube']
-
 
 # -- Options for HTML output ---------------------------------------------------
 
