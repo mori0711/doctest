@@ -9,7 +9,7 @@ Material Projects から結晶データ取得
   Main menu, which is symbolized by ">" icon, has eight items.
 
   +--------------------------------------------------------------------------+
-  | .. image:: ./imgs/materials_window.png                             |
+  | .. image:: ./imgs/materials_window.png                                   |
   |    :scale: 40 %                                                          |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
