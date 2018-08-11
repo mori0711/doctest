@@ -97,6 +97,12 @@ pygments_style = 'sphinx'
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
 
+# sphinxcontrib.youtube 用にライブラリパスを追加
+sys.path += ["lib"]
+
+# sphinxcontrib.youtube モジュールを読み込む
+extensions += ['sphinxcontrib.youtube']
+
 
 # -- Options for HTML output ---------------------------------------------------
 
