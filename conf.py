@@ -36,10 +36,10 @@ extensions = ['sphinx.ext.todo',
 todo_include_todos=True
 
 # sphinxcontrib.youtube 用にライブラリパスを追加
-sys.path += ["lib"]
+#sys.path += ["lib"]
 
 # sphinxcontrib.youtube モジュールを読み込む
-extensions += ['sphinxcontrib.youtube']
+#extensions += ['sphinxcontrib.youtube']
 
 
 html_search_language = 'ja'
