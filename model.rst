@@ -10,4 +10,7 @@
    :maxdepth: 2
 
    model/material_projects
+   model/make_supercell
+   model/make_slab
+   model/make_combinatorial
 
